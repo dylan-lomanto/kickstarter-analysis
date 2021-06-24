@@ -10,3 +10,5 @@ A pivot table was created to determine the count of campaign outcomes (successfu
 ![](Outcomes_vs_Launch_Date_Pivot_Table.PNG)
 
 Subsequently, the pivot table was used to create a line chart to visualize the findings. 
+
+![](Theater_Outcomes_vs_Launch.PNG)
