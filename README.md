@@ -12,3 +12,9 @@ A pivot table was created to determine the count of campaign outcomes (successfu
 Subsequently, the pivot table was used to create a line chart to visualize the findings. 
 
 ![](Theater_Outcomes_vs_Launch.PNG)
+
+##### Analysis of Outcomes Based on Goals
+A table was created with goal range dollar figures on the y-axis and counts and percentages of outcomes (successful, failed, and canceled) on the x-axis. The full dateaset was filtered to only show results for the subcategory "plays". The COUNTIFS() function was then used to populate the table with the number of outcomes for each goal range.
+
+![](Outcomes_vs_Goals_Table.PNG)
+
