@@ -6,5 +6,7 @@
   Two analyses were run on the dataset; 'Outcomes Based on Launch Date' and 'Outcomes Based on Goals'.  
 ##### Analysis of Outcomes Based on Launch Date 
 A pivot table was created to determine the count of campaign outcomes (successful, failed, and canceled) based upon their creation date. Currently live campaigns were excluded from the results. The variable 'Parent Category' was used to filter for only theater projects. 
+
 ![](Outcomes_vs_Launch_Date_Pivot_Table.PNG)
+
 Subsequently, the pivot table was used to create a line chart to visualize the findings. 
