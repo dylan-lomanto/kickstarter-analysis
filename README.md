@@ -25,3 +25,6 @@ The percentage columns were then used to create a line chart of the outcomes vs 
 ##### Challenges and Difficulties Encountered
 The majority of the difficulties encountered related to the syntax of the COUTIFS() function. The notation became quite long for some cells and I struggled to properly write it down until I discovered that I could switch tabs and select a column and sheet instead of writing it out character by character.    
 ### Results
+##### Outcomes Based on Launch Date
+1. The most successful month to launch a theater campaign on Kickstaarter is May, by a wide margin.  Not only does May have the highest number of successful campaigns, it has the widest separation between the number of successful and failed campaigns (both in terms of counts of outcomes and relative to total campaigns launched) indicating that the month of May has the highest percentage of successful outcomes.  
+2. The successful and failed campaign lines tend to mirror one another in shape, indicating that the percentage of successful campaigns remains similar year-round, with the exception of December.  In December the lines nearly intersect, indicating that it has the lowest percentage of successful campaigns and is thus the worst month to launch a campaign.
