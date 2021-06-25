@@ -18,3 +18,8 @@ A table was created with goal range dollar figures on the y-axis and counts and 
 
 ![](Outcomes_vs_Goals_Table.PNG)
 
+The percentage columns were then used to create a line chart of the outcomes vs the goal ranges.
+
+![](Outcomes_vs_Goals.png)
+
+##### Challenges and Difficulties Encountered
