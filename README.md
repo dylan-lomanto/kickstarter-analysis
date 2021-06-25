@@ -23,3 +23,5 @@ The percentage columns were then used to create a line chart of the outcomes vs 
 ![](Outcomes_vs_Goals.png)
 
 ##### Challenges and Difficulties Encountered
+The majority of the difficulties encountered related to the syntax of the COUTIFS() function. The notation became quite long for some cells and I struggled to properly write it down until I discovered that I could switch tabs and select a column and sheet instead of writing it out character by character.    
+### Results
